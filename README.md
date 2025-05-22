@@ -1,4 +1,8 @@
 # WEBNANGCAO
-#Thành Viên
+# Thành Viên
 Đặng Thanh Tùng
-gh
+# MSV 
+23010218
+# Đề Tài
+web quản lý phòng trọ
+
